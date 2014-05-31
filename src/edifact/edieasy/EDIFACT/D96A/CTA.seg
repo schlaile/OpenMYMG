@@ -1,0 +1,6 @@
+CTA    CONTACT INFORMATION
+010   3139  CONTACT FUNCTION, CODED                        C  an..3
+020   C056  DEPARTMENT OR EMPLOYEE DETAILS                 C  
+      3413   Department or employee identification         C  an..17
+      3412   Department or employee                        C  an..35
+

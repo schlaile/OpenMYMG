@@ -1,0 +1,17 @@
+UCF    FUNCTIONAL GROUP RESPONSE
+010   0048  FUNCTIONAL GROUP REFERENCE NUMBER           M 1   an..14   
+020   S006  APPLICATION SENDER'S IDENTIFICATION         M 1            
+      0040   Sender identification                      M     an..35
+      0007   Partner identification code qualifier      C     an..4
+030   S007  APPLICATION RECIPIENT'S IDENTIFICATION      M 1            
+      0044   Recipient's identification                 M     an..35
+      0007   Partner identification code qualifier      C     an..4
+040   0083  ACTION, CODED                               M 1   an..3    
+050   0085  SYNTAX ERROR, CODED                         C 1   an..3    
+060   0013  SERVICE SEGMENT TAG, CODED                  C 1   a3       
+070   S011  DATA ELEMENT IDENTIFICATION                 C 1            
+      0098   Erroneous data element position in
+             segment                                    M     n..3
+      0104   Erroneous component data element
+             position                                   C     n..3
+

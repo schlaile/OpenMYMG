@@ -1,0 +1,6 @@
+DTM    DATE/TIME/PERIOD
+010   C507  DATE/TIME/PERIOD                               M  
+      2005   Date/time/period qualifier                    M  an..3
+      2380   Date/time/period                              C  an..35
+      2379   Date/time/period format qualifier             C  an..3
+

@@ -1,0 +1,4 @@
+UNZ    INTERCHANGE TRAILER
+010   0036  INTERCHANGE CONTROL COUNT                   M 1   n..6     
+020   0020  INTERCHANGE CONTROL REFERENCE               M 1   an..14   
+

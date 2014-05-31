@@ -1,0 +1,6 @@
+ARD    AMOUNTS RELATIONSHIP DETAILS
+010   C549  MONETARY FUNCTION                              C  
+      5007   Monetary function, coded                      M  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+

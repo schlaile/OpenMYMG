@@ -1,0 +1,12 @@
+ICD    INSURANCE COVER DESCRIPTION
+010   C330  INSURANCE COVER TYPE                           M  
+      4497   Insurance cover type, coded                   M  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+020   C331  INSURANCE COVER DETAILS                        M  
+      4495   Insurance cover identification                C  an..17
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      4494   Insurance cover                               C  an..35
+      4494   Insurance cover                               C  an..35
+

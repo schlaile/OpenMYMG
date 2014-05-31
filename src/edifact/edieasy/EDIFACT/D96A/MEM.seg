@@ -1,0 +1,37 @@
+MEM    MEMBERSHIP DETAILS
+010   7449  MEMBERSHIP QUALIFIER                           M  an..3
+020   C942  MEMBERSHIP CATEGORY                            C  
+      7451   Membership category identification            M  an..4
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      7450   Membership category                           C  an..35
+030   C944  MEMBERSHIP STATUS                              C  
+      7453   Membership status, coded                      C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      7452   Membership status                             C  an..35
+040   C945  MEMBERSHIP LEVEL                               C  
+      7455   Membership level qualifier                    M  an..3
+      7457   Membership level identification               C  an..9
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      7456   Membership level                              C  an..35
+050   C203  RATE/TARIFF CLASS                              C  
+      5243   Rate/tariff class identification              M  an..9
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      5242   Rate/tariff class                             C  an..35
+      5275   Supplementary rate/tariff basis               C  an..6
+             identification
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      5275   Supplementary rate/tariff basis               C  an..6
+             identification
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+060   C960  REASON FOR CHANGE                              C  
+      4295   Change reason, coded                          C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      4294   Change reason                                 C  an..35
+

@@ -1,0 +1,8 @@
+PTY    PRIORITY
+010   4035  PRIORITY QUALIFIER                             M  an..3
+020   C585  PRIORITY DETAILS                               C  
+      4037   Priority, coded                               C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      4036   Priority                                      C  an..35
+

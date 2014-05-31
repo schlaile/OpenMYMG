@@ -1,0 +1,14 @@
+CCI    CHARACTERISTIC/CLASS ID
+010   7059  PROPERTY CLASS, CODED                          C  an..3
+020   C502  MEASUREMENT DETAILS                            C  
+      6313   Measurement dimension, coded                  C  an..3
+      6321   Measurement significance, coded               C  an..3
+      6155   Measurement attribute, coded                  C  an..3
+      6154   Measurement attribute                         C  an..70
+030   C240  PRODUCT CHARACTERISTIC                         C  
+      7037   Characteristic identification                 M  an..17
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      7036   Characteristic                                C  an..35
+      7036   Characteristic                                C  an..35
+

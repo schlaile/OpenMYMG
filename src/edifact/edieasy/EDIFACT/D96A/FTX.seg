@@ -1,0 +1,15 @@
+FTX    FREE TEXT
+010   4451  TEXT SUBJECT QUALIFIER                         M  an..3
+020   4453  TEXT FUNCTION, CODED                           C  an..3
+030   C107  TEXT REFERENCE                                 C  
+      4441   Free text, coded                              M  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+040   C108  TEXT LITERAL                                   C  
+      4440   Free text                                     M  an..70
+      4440   Free text                                     C  an..70
+      4440   Free text                                     C  an..70
+      4440   Free text                                     C  an..70
+      4440   Free text                                     C  an..70
+050   3453  LANGUAGE, CODED                                C  an..3
+

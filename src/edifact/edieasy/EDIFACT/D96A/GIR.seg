@@ -1,0 +1,23 @@
+GIR    RELATED IDENTIFICATION NUMBERS
+010   7297  SET IDENTIFICATION QUALIFIER                   M  an..3
+020   C206  IDENTIFICATION NUMBER                          M  
+      7402   Identity number                               M  an..35
+      7405   Identity number qualifier                     C  an..3
+      4405   Status, coded                                 C  an..3
+030   C206  IDENTIFICATION NUMBER                          C  
+      7402   Identity number                               M  an..35
+      7405   Identity number qualifier                     C  an..3
+      4405   Status, coded                                 C  an..3
+040   C206  IDENTIFICATION NUMBER                          C  
+      7402   Identity number                               M  an..35
+      7405   Identity number qualifier                     C  an..3
+      4405   Status, coded                                 C  an..3
+050   C206  IDENTIFICATION NUMBER                          C  
+      7402   Identity number                               M  an..35
+      7405   Identity number qualifier                     C  an..3
+      4405   Status, coded                                 C  an..3
+060   C206  IDENTIFICATION NUMBER                          C  
+      7402   Identity number                               M  an..35
+      7405   Identity number qualifier                     C  an..3
+      4405   Status, coded                                 C  an..3
+

@@ -1,0 +1,8 @@
+MOA    MONETARY AMOUNT
+010   C516  MONETARY AMOUNT                                M  
+      5025   Monetary amount type qualifier                M  an..3
+      5004   Monetary amount                               C  n..18
+      6345   Currency, coded                               C  an..3
+      6343   Currency qualifier                            C  an..3
+      4405   Status, coded                                 C  an..3
+

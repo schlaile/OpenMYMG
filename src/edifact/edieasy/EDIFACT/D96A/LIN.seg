@@ -1,0 +1,14 @@
+LIN    LINE ITEM
+010   1082  LINE ITEM NUMBER                               C  n..6
+020   1229  ACTION REQUEST/NOTIFICATION, CODED             C  an..3
+030   C212  ITEM NUMBER IDENTIFICATION                     C  
+      7140   Item number                                   C  an..35
+      7143   Item number type, coded                       C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+040   C829  SUB-LINE INFORMATION                           C  
+      5495   Sub-line indicator, coded                     C  an..3
+      1082   Line item number                              C  n..6
+050   1222  CONFIGURATION LEVEL                            C  n..2
+060   7083  CONFIGURATION, CODED                           C  an..3
+

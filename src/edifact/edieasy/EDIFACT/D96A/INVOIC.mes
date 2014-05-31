@@ -1,0 +1,254 @@
+[INFO]
+Message Type : INVOIC
+Version      : D
+Release      : 96A
+Contr. Agency: UN
+Status       : 2
+Revision     : 4
+Date         : 95-11-23
+[SCHEMA]
+UNH   M   1     
+BGM   M   1     
+DTM   M   35    
+PAI   C   1     
+ALI   C   5     
+IMD   C   1     
+FTX   C   10    
+group   1   C   99
+   RFF   M   1           
+   DTM   C   5
+   endgroup   1
+group   2   C   99
+   NAD   M   1           
+   LOC   C   25          
+   FII   C   5           
+   group   3   C   9999
+      RFF   M   1          
+      DTM   C   5
+      endgroup   3
+   group   4   C   5
+      DOC   M   1          
+      DTM   C   5
+      endgroup   4
+   group   5   C   5
+      CTA   M   1          
+      COM   C   5
+      endgroup   5
+   endgroup   2
+group   6   C   5
+   TAX   M   1           
+   MOA   C   1           
+   LOC   C   5
+   endgroup   6
+group   7   C   5
+   CUX   M   1           
+   DTM   C   5
+   endgroup   7
+group   8   C   10
+   PAT   M   1           
+   DTM   C   5           
+   PCD   C   1           
+   MOA   C   1           
+   PAI   C   1           
+   FII   C   1
+   endgroup   8
+group   9   C   10
+   TDT   M   1           
+   group   10   C   10
+      LOC   M   1          
+      DTM   C   5
+      endgroup   10
+   group   11   C   9999
+      RFF   M   1          
+      DTM   C   5
+      endgroup   11
+   endgroup   9
+group   12   C   5
+   TOD   M   1           
+   LOC   C   2
+   endgroup   12
+group   13   C   1000
+   PAC   M   1           
+   MEA   C   5           
+   group   14   C   5
+      PCI   M   1          
+      RFF   C   1          
+      DTM   C   5          
+      GIN   C   5
+      endgroup   14
+   endgroup   13
+group   15   C   9999
+   ALC   M   1           
+   ALI   C   5           
+   group   16   C   5
+      RFF   M   1          
+      DTM   C   5
+      endgroup   16
+   group   17   C   1
+      QTY   M   1          
+      RNG   C   1
+      endgroup   17
+   group   18   C   1
+      PCD   M   1          
+      RNG   C   1
+      endgroup   18
+   group   19   C   2
+      MOA   M   1          
+      RNG   C   1
+      endgroup   19
+   group   20   C   1
+      RTE   M   1          
+      RNG   C   1
+      endgroup   20
+   group   21   C   5
+      TAX   M   1          
+      MOA   C   1
+      endgroup   21
+   endgroup   15
+group   22   C   100
+   RCS   M   1           
+   RFF   C   5           
+   DTM   C   5           
+   FTX   C   5
+   endgroup   22
+group   23   C   1
+   AJT   M   1           
+   FTX   C   5
+   endgroup   23
+group   24   C   1
+   INP   M   1           
+   FTX   C   5
+   endgroup   24
+group   25   C   9999999
+   LIN   M   1           
+   PIA   C   25          
+   IMD   C   10          
+   MEA   C   5           
+   QTY   C   5           
+   PCD   C   1           
+   ALI   C   5           
+   DTM   C   35          
+   GIN   C   1000        
+   GIR   C   1000        
+   QVR   C   1           
+   EQD   C   1           
+   FTX   C   5           
+   group   26   C   5
+      MOA   M   1          
+      CUX   C   1
+      endgroup   26
+   group   27   C   10
+      PAT   M   1          
+      DTM   C   5          
+      PCD   C   1          
+      MOA   C   1
+      endgroup   27
+   group   28   C   25
+      PRI   M   1          
+      APR   C   1          
+      RNG   C   1          
+      DTM   C   5
+      endgroup   28
+   group   29   C   10
+      RFF   M   1          
+      DTM   C   5
+      endgroup   29
+   group   30   C   10
+      PAC   M   1          
+      MEA   C   10         
+      group   31   C   10
+         PCI   M   1         
+         RFF   C   1         
+         DTM   C   5         
+         GIN   C   10
+         endgroup   31
+      endgroup   30
+   group   32   C   9999
+      LOC   M   1          
+      QTY   C   100        
+      DTM   C   5
+      endgroup   32
+   group   33   C   99
+      TAX   M   1          
+      MOA   C   1          
+      LOC   C   5
+      endgroup   33
+   group   34   C   20
+      NAD   M   1          
+      LOC   C   5          
+      group   35   C   5
+         RFF   M   1         
+         DTM   C   5
+         endgroup   35
+      group   36   C   5
+         DOC   M   1         
+         DTM   C   5
+         endgroup   36
+      group   37   C   5
+         CTA   M   1         
+         COM   C   5
+         endgroup   37
+      endgroup   34
+   group   38   C   15
+      ALC   M   1          
+      ALI   C   5
+      DTM   C   5         
+      group   39   C   1
+         QTY   M   1        
+         RNG   C   1
+         endgroup   39
+      group   40   C   1
+         PCD   M   1         
+         RNG   C   1
+         endgroup   40
+      group   41   C   2
+         MOA   M   1        
+         RNG   C   1
+         endgroup   41
+      group   42   C   1
+         RTE   M   1         
+         RNG   C   1
+         endgroup   42
+      group   43   C   5
+         TAX   M   1        
+         MOA   C   1
+         endgroup   43
+      endgroup   38
+   group   44   C   10
+      TDT   M   1         
+      group   45   C   10
+         LOC   M   1
+         DTM   C   5
+         endgroup   45
+      endgroup   44
+   group   46   C   5
+      TOD   M   1
+      LOC   C   2
+      endgroup   46
+   group   47   C   100
+      RCS   M   1
+      RFF   C   5
+      DTM   C   5
+      FTX   C   5
+      endgroup   47
+   endgroup   25
+UNS   M   1     
+CNT   C   10    
+group   48   M   100
+   MOA   M   1
+   group   49   C   1
+      RFF   M   1
+      DTM   C   5
+      endgroup   49
+   endgroup   48
+group   50   C   10
+   TAX   M   1
+   MOA   C   2
+   endgroup   50
+group   51   C   15
+   ALC   M   1           
+   ALI   C   1           
+   MOA   C   2
+   endgroup   51
+UNT   M   1     
+

@@ -1,0 +1,16 @@
+EQD    EQUIPMENT DETAILS
+010   8053  EQUIPMENT QUALIFIER                            M  an..3
+020   C237  EQUIPMENT IDENTIFICATION                       C  
+      8260   Equipment identification number               C  an..17
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      3207   Country, coded                                C  an..3
+030   C224  EQUIPMENT SIZE AND TYPE                        C  
+      8155   Equipment size and type identification        C  an..10
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      8154   Equipment size and type                       C  an..35
+040   8077  EQUIPMENT SUPPLIER, CODED                      C  an..3
+050   8249  EQUIPMENT STATUS, CODED                        C  an..3
+060   8169  FULL/EMPTY INDICATOR, CODED                    C  an..3
+

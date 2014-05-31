@@ -1,0 +1,22 @@
+SPS    SAMPLING PARAMETERS FOR SUMMARY STATISTICS
+010   C526  FREQUENCY DETAILS                              C  
+      6071   Frequency qualifier                           M  an..3
+      6072   Frequency value                               C  n..9
+      6411   Measure unit qualifier                        C  an..3
+020   6074  CONFIDENCE LIMIT                               C  n..6
+030   C512  SIZE DETAILS                                   C  
+      6173   Size qualifier                                C  an..3
+      6174   Size                                          C  n..15
+040   C512  SIZE DETAILS                                   C  
+      6173   Size qualifier                                C  an..3
+      6174   Size                                          C  n..15
+050   C512  SIZE DETAILS                                   C  
+      6173   Size qualifier                                C  an..3
+      6174   Size                                          C  n..15
+060   C512  SIZE DETAILS                                   C  
+      6173   Size qualifier                                C  an..3
+      6174   Size                                          C  n..15
+070   C512  SIZE DETAILS                                   C  
+      6173   Size qualifier                                C  an..3
+      6174   Size                                          C  n..15
+

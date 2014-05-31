@@ -1,0 +1,17 @@
+UCM    MESSAGE RESPONSE
+010   0062  MESSAGE REFERENCE NUMBER                    M 1   an..14   
+020   S009  MESSAGE IDENTIFIER                          M 1            
+      0065   Message type                               M     an..6
+      0052   Message version number                     M     an..3
+      0054   Message release number                     M     an..3
+      0051   Controlling agency                         M     an..2
+      0057   Association assigned code                  C     an..6
+030   0083  ACTION, CODED                               M 1   an..3    
+040   0085  SYNTAX ERROR, CODED                         C 1   an..3    
+050   0013  SERVICE SEGMENT TAG, CODED                  C 1   a3       
+060   S011  DATA ELEMENT IDENTIFICATION                 C 1            
+      0098   Erroneous data element position in
+             segment                                    M     n..3
+      0104   Erroneous component data element
+             position                                   C     n..3
+

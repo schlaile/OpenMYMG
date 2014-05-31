@@ -1,0 +1,9 @@
+FCA    FINANCIAL CHARGES ALLOCATION
+010   4471  SETTLEMENT, CODED                              M  an..3
+020   C878  CHARGE/ALLOWANCE ACCOUNT                       C  
+      3434   Institution branch number                     M  an..17
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      3194   Account holder number                         C  an..35
+      6345   Currency, coded                               C  an..3
+

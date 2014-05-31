@@ -1,0 +1,18 @@
+GIN    GOODS IDENTITY NUMBER
+010   7405  IDENTITY NUMBER QUALIFIER                      M  an..3
+020   C208  IDENTITY NUMBER RANGE                          M  
+      7402   Identity number                               M  an..35
+      7402   Identity number                               C  an..35
+030   C208  IDENTITY NUMBER RANGE                          C  
+      7402   Identity number                               M  an..35
+      7402   Identity number                               C  an..35
+040   C208  IDENTITY NUMBER RANGE                          C  
+      7402   Identity number                               M  an..35
+      7402   Identity number                               C  an..35
+050   C208  IDENTITY NUMBER RANGE                          C  
+      7402   Identity number                               M  an..35
+      7402   Identity number                               C  an..35
+060   C208  IDENTITY NUMBER RANGE                          C  
+      7402   Identity number                               M  an..35
+      7402   Identity number                               C  an..35
+

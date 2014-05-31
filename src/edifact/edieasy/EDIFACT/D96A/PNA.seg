@@ -1,0 +1,38 @@
+PNA    PARTY NAME
+010   3035  PARTY QUALIFIER                                M  an..3
+020   C206  IDENTIFICATION NUMBER                          C  
+      7402   Identity number                               M  an..35
+      7405   Identity number qualifier                     C  an..3
+      4405   Status, coded                                 C  an..3
+030   C082  PARTY IDENTIFICATION DETAILS                   C  
+      3039   Party id. identification                      M  an..35
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+040   3403  NAME TYPE, CODED                               C  an..3
+050   3397  NAME STATUS, CODED                             C  an..3
+060   C816  NAME COMPONENT DETAILS                         C  
+      3405   Name component qualifier                      M  an..3
+      3398   Name component                                C  an..70
+      3401   Name component status, coded                  C  an..3
+      3295   Name component original representation, coded C  an..3
+070   C816  NAME COMPONENT DETAILS                         C  
+      3405   Name component qualifier                      M  an..3
+      3398   Name component                                C  an..70
+      3401   Name component status, coded                  C  an..3
+      3295   Name component original representation, coded C  an..3
+080   C816  NAME COMPONENT DETAILS                         C  
+      3405   Name component qualifier                      M  an..3
+      3398   Name component                                C  an..70
+      3401   Name component status, coded                  C  an..3
+      3295   Name component original representation, coded C  an..3
+090   C816  NAME COMPONENT DETAILS                         C  
+      3405   Name component qualifier                      M  an..3
+      3398   Name component                                C  an..70
+      3401   Name component status, coded                  C  an..3
+      3295   Name component original representation, coded C  an..3
+100   C816  NAME COMPONENT DETAILS                         C  
+      3405   Name component qualifier                      M  an..3
+      3398   Name component                                C  an..70
+      3401   Name component status, coded                  C  an..3
+      3295   Name component original representation, coded C  an..3
+

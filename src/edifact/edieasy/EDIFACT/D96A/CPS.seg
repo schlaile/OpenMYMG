@@ -1,0 +1,5 @@
+CPS    CONSIGNMENT PACKING SEQUENCE
+010   7164  HIERARCHICAL ID. NUMBER                        M  an..12
+020   7166  HIERARCHICAL PARENT ID.                        C  an..12
+030   7075  PACKAGING LEVEL, CODED                         C  an..3
+

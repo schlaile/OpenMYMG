@@ -1,0 +1,11 @@
+APR    ADDITIONAL PRICE INFORMATION
+010   4043  CLASS OF TRADE, CODED                          C  an..3
+020   C138  PRICE MULTIPLIER INFORMATION                   C  
+      5394   Price multiplier                              M  n..12
+      5393   Price multiplier qualifier                    C  an..3
+030   C960  REASON FOR CHANGE                              C  
+      4295   Change reason, coded                          C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      4294   Change reason                                 C  an..35
+

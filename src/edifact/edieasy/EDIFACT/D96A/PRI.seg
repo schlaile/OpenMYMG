@@ -1,0 +1,10 @@
+PRI    PRICE DETAILS
+010   C509  PRICE INFORMATION                              C  
+      5125   Price qualifier                               M  an..3
+      5118   Price                                         C  n..15
+      5375   Price type, coded                             C  an..3
+      5387   Price type qualifier                          C  an..3
+      5284   Unit price basis                              C  n..9
+      6411   Measure unit qualifier                        C  an..3
+020   5213  SUB-LINE PRICE CHANGE, CODED                   C  an..3
+

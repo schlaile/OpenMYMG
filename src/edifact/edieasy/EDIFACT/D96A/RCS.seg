@@ -1,0 +1,9 @@
+RCS    REQUIREMENTS AND CONDITIONS
+010   7293  SECTOR/SUBJECT IDENTIFICATION QUALIFIER        M  an..3
+020   C550  REQUIREMENT/CONDITION IDENTIFICATION           C  
+      7295   Requirement/condition identification          M  an..17
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      7294   Requirement or condition                      C  an..35
+030   1229  ACTION REQUEST/NOTIFICATION, CODED             C  an..3
+

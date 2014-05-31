@@ -1,0 +1,9 @@
+CNI    CONSIGNMENT INFORMATION
+010   1490  CONSOLIDATION ITEM NUMBER                      C  n..4
+020   C503  DOCUMENT/MESSAGE DETAILS                       C  
+      1004   Document/message number                       C  an..35
+      1373   Document/message status, coded                C  an..3
+      1366   Document/message source                       C  an..35
+      3453   Language, coded                               C  an..3
+030   1312  CONSIGNMENT LOAD SEQUENCE NUMBER               C  n..4
+

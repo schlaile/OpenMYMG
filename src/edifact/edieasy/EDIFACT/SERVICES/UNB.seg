@@ -1,0 +1,4 @@
+UNB    INTERCHANGE HEADER
+010   S001  SYNTAX IDENTIFIER                           M 1            
+      0001   Syntax identifier                          M     a4
+      0002   Syntax version number                      M     n1

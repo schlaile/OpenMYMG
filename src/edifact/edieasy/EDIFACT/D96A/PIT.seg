@@ -1,0 +1,12 @@
+PIT    PRICE ITEM LINE
+010   1082  LINE ITEM NUMBER                               C  n..6
+020   1229  ACTION REQUEST/NOTIFICATION, CODED             C  an..3
+030   C292  PRICE CHANGE INFORMATION                       C  
+      5377   Price change indicator, coded                 M  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+040   7011  ARTICLE AVAILABILITY, CODED                    C  an..3
+050   5495  SUB-LINE INDICATOR, CODED                      C  an..3
+060   1222  CONFIGURATION LEVEL                            C  n..2
+070   7083  CONFIGURATION, CODED                           C  an..3
+

@@ -1,0 +1,14 @@
+ALC    ALLOWANCE OR CHARGE
+010   5463  ALLOWANCE OR CHARGE QUALIFIER                  M  an..3
+020   C552  ALLOWANCE/CHARGE INFORMATION                   C  
+      1230   Allowance or charge number                    C  an..35
+      5189   Charge/allowance description, coded           C  an..3
+030   4471  SETTLEMENT, CODED                              C  an..3
+040   1227  CALCULATION SEQUENCE INDICATOR, CODED          C  an..3
+050   C214  SPECIAL SERVICES IDENTIFICATION                C  
+      7161   Special services, coded                       C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      7160   Special service                               C  an..35
+      7160   Special service                               C  an..35
+

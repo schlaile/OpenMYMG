@@ -1,0 +1,12 @@
+COD    COMPONENT DETAILS
+010   C823  TYPE OF UNIT/COMPONENT                         C  
+      7505   Type of unit/component, coded                 C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      7504   Type of unit/component                        C  an..35
+020   C824  COMPONENT MATERIAL                             C  
+      7507   Component material, coded                     C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      7506   Component material                            C  an..35
+

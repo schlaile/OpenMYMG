@@ -1,0 +1,16 @@
+DSI    DATA SET IDENTIFICATION
+010   C782  DATA SET IDENTIFICATION                        M  
+      1520   Data set identifier                           M  an..35
+      7405   Identity number qualifier                     C  an..3
+020   C082  PARTY IDENTIFICATION DETAILS                   C  
+      3039   Party id. identification                      M  an..35
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+030   4405  STATUS, CODED                                  C  an..3
+040   C286  SEQUENCE INFORMATION                           C  
+      1050   Sequence number                               M  an..6
+      1159   Sequence number source, coded                 C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+050   1060  REVISION NUMBER                                C  an..6
+

@@ -1,0 +1,21 @@
+TSR    TRANSPORT SERVICE REQUIREMENTS
+010   C536  CONTRACT AND CARRIAGE CONDITION                C  
+      4065   Contract and carriage condition, coded        M  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+020   C233  SERVICE                                        C  
+      7273   Service requirement, coded                    M  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      7273   Service requirement, coded                    C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+030   C537  TRANSPORT PRIORITY                             C  
+      4219   Transport priority, coded                     M  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+040   C703  NATURE OF CARGO                                C  
+      7085   Nature of cargo, coded                        M  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+

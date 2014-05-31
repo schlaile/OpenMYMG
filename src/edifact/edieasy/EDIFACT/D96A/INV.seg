@@ -1,0 +1,12 @@
+INV    INVENTORY MANAGEMENT RELATED DETAILS
+010   4501  INVENTORY MOVEMENT DIRECTION, CODED            C  an..3
+020   7491  TYPE OF INVENTORY AFFECTED, CODED              C  an..3
+030   4499  REASON FOR INVENTORY MOVEMENT, CODED           C  an..3
+040   4503  INVENTORY BALANCE METHOD, CODED                C  an..3
+050   C522  INSTRUCTION                                    C  
+      4403   Instruction qualifier                         M  an..3
+      4401   Instruction, coded                            C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      4400   Instruction                                   C  an..35
+

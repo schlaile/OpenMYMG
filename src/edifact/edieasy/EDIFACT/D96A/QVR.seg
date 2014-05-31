@@ -1,0 +1,11 @@
+QVR    QUANTITY VARIANCES
+010   C279  QUANTITY DIFFERENCE INFORMATION                C  
+      6064   Quantity difference                           M  n..15
+      6063   Quantity qualifier                            C  an..3
+020   4221  DISCREPANCY, CODED                             C  an..3
+030   C960  REASON FOR CHANGE                              C  
+      4295   Change reason, coded                          C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      4294   Change reason                                 C  an..35
+

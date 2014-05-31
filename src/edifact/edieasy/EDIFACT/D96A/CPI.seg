@@ -1,0 +1,11 @@
+CPI    CHARGE PAYMENT INSTRUCTIONS
+010   C229  CHARGE CATEGORY                                C  
+      5237   Charge category, coded                        M  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+020   C231  METHOD OF PAYMENT                              C  
+      4215   Transport charges method of payment, coded    M  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+030   4237  PREPAID/COLLECT INDICATOR, CODED               C  an..3
+

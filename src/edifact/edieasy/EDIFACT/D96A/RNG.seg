@@ -1,0 +1,7 @@
+RNG    RANGE DETAILS
+010   6167  RANGE TYPE QUALIFIER                           M  an..3
+020   C280  RANGE                                          C  
+      6411   Measure unit qualifier                        M  an..3
+      6162   Range minimum                                 C  n..18
+      6152   Range maximum                                 C  n..18
+

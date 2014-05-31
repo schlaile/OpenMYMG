@@ -1,0 +1,15 @@
+DOC    DOCUMENT/MESSAGE DETAILS
+010   C002  DOCUMENT/MESSAGE NAME                          M  
+      1001   Document/message name, coded                  C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      1000   Document/message name                         C  an..35
+020   C503  DOCUMENT/MESSAGE DETAILS                       C  
+      1004   Document/message number                       C  an..35
+      1373   Document/message status, coded                C  an..3
+      1366   Document/message source                       C  an..35
+      3453   Language, coded                               C  an..3
+030   3153  COMMUNICATION CHANNEL IDENTIFIER, CODED        C  an..3
+040   1220  NUMBER OF COPIES OF DOCUMENT REQUIRED          C  n..2
+050   1218  NUMBER OF ORIGINALS OF DOCUMENT REQUIRED       C  n..2
+

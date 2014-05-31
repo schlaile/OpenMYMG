@@ -1,0 +1,28 @@
+PIA    ADDITIONAL PRODUCT ID
+010   4347  PRODUCT ID. FUNCTION QUALIFIER                 M  an..3
+020   C212  ITEM NUMBER IDENTIFICATION                     M  
+      7140   Item number                                   C  an..35
+      7143   Item number type, coded                       C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+030   C212  ITEM NUMBER IDENTIFICATION                     C  
+      7140   Item number                                   C  an..35
+      7143   Item number type, coded                       C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+040   C212  ITEM NUMBER IDENTIFICATION                     C  
+      7140   Item number                                   C  an..35
+      7143   Item number type, coded                       C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+050   C212  ITEM NUMBER IDENTIFICATION                     C  
+      7140   Item number                                   C  an..35
+      7143   Item number type, coded                       C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+060   C212  ITEM NUMBER IDENTIFICATION                     C  
+      7140   Item number                                   C  an..35
+      7143   Item number type, coded                       C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+

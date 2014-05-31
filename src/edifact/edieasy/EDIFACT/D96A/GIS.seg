@@ -1,0 +1,7 @@
+GIS    GENERAL INDICATOR
+010   C529  PROCESSING INDICATOR                           M  
+      7365   Processing indicator, coded                   M  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      7187   Process type identification                   C  an..17
+

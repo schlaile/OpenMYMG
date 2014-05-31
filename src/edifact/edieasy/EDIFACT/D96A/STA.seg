@@ -1,0 +1,8 @@
+STA    STATISTICS
+010   6331  STATISTIC TYPE, CODED                          M  an..3
+020   C527  STATISTICAL DETAILS                            C  
+      6314   Measurement value                             C  n..18
+      6411   Measure unit qualifier                        C  an..3
+      6313   Measurement dimension, coded                  C  an..3
+      6321   Measurement significance, coded               C  an..3
+

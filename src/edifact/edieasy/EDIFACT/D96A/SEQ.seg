@@ -1,0 +1,8 @@
+SEQ    SEQUENCE DETAILS
+010   1245  STATUS INDICATOR, CODED                        C  an..3
+020   C286  SEQUENCE INFORMATION                           C  
+      1050   Sequence number                               M  an..6
+      1159   Sequence number source, coded                 C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+

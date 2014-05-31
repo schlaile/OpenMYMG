@@ -1,0 +1,8 @@
+UCD    DATA ELEMENT ERROR INDICATION
+010   0085  SYNTAX ERROR, CODED                         M 1   an..3    
+020   S011  DATA ELEMENT IDENTIFICATION                 M 1            
+      0098   Erroneous data element position in
+             segment                                    M     n..3
+      0104   Erroneous component data element
+             position                                   C     n..3
+

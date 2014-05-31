@@ -1,0 +1,9 @@
+AGR    AGREEMENT IDENTIFICATION
+010   C543  AGREEMENT TYPE IDENTIFICATION                  C  
+      7431   Agreement type qualifier                      M  an..3
+      7433   Agreement type, coded                         C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      7434   Agreement type description                    C  an..70
+020   9419  SERVICE LAYER, CODED                           C  an..3
+

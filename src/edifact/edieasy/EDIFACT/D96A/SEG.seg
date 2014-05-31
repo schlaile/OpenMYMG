@@ -1,0 +1,5 @@
+SEG    SEGMENT IDENTIFICATION
+010   9166  SEGMENT TAG                                    M  an..3
+020   1507  CLASS DESIGNATOR, CODED                        C  an..3
+030   4513  MAINTENANCE OPERATION, CODED                   C  an..3
+

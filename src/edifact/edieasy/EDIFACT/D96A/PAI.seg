@@ -1,0 +1,9 @@
+PAI    PAYMENT INSTRUCTIONS
+010   C534  PAYMENT INSTRUCTION DETAILS                    M  
+      4439   Payment conditions, coded                     C  an..3
+      4431   Payment guarantee, coded                      C  an..3
+      4461   Payment means, coded                          C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      4435   Payment channel, coded                        C  an..3
+

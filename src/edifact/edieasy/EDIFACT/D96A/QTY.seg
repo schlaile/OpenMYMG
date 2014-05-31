@@ -1,0 +1,6 @@
+QTY    QUANTITY
+010   C186  QUANTITY DETAILS                               M  
+      6063   Quantity qualifier                            M  an..3
+      6060   Quantity                                      M  n..15
+      6411   Measure unit qualifier                        C  an..3
+

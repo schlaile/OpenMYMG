@@ -1,0 +1,10 @@
+IND    INDEX DETAILS
+010   C545  INDEX IDENTIFICATION                           C  
+      5013   Index qualifier                               M  an..3
+      5027   Index type, coded                             C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+020   C546  INDEX VALUE                                    C  
+      5030   Index value                                   M  n..6
+      5039   Index value representation, coded             C  an..3
+

@@ -1,0 +1,7 @@
+IRQ    INFORMATION REQUIRED
+010   C333  INFORMATION REQUEST                            M  
+      4511   Requested information, coded                  C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      4510   Requested information                         C  an..35
+

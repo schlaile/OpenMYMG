@@ -1,0 +1,7 @@
+TMD    TRANSPORT MOVEMENT DETAILS
+010   C219  MOVEMENT TYPE                                  C  
+      8335   Movement type, coded                          C  an..3
+      8334   Movement type                                 C  an..35
+020   8332  EQUIPMENT PLAN                                 C  an..26
+030   8341  HAULAGE ARRANGEMENTS, CODED                    C  an..3
+

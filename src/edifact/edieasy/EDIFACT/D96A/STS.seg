@@ -1,0 +1,36 @@
+STS    STATUS
+010   C601  STATUS TYPE                                    C  
+      9015   Status type, coded                            M  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+020   C555  STATUS EVENT                                   C  
+      9011   Status event, coded                           M  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      9010   Status event                                  C  an..35
+030   C556  STATUS REASON                                  C  
+      9013   Status reason, coded                          M  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      9012   Status reason                                 C  an..35
+040   C556  STATUS REASON                                  C  
+      9013   Status reason, coded                          M  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      9012   Status reason                                 C  an..35
+050   C556  STATUS REASON                                  C  
+      9013   Status reason, coded                          M  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      9012   Status reason                                 C  an..35
+060   C556  STATUS REASON                                  C  
+      9013   Status reason, coded                          M  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      9012   Status reason                                 C  an..35
+070   C556  STATUS REASON                                  C  
+      9013   Status reason, coded                          M  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      9012   Status reason                                 C  an..35
+

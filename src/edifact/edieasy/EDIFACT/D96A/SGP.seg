@@ -1,0 +1,8 @@
+SGP    SPLIT GOODS PLACEMENT
+010   C237  EQUIPMENT IDENTIFICATION                       M  
+      8260   Equipment identification number               C  an..17
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      3207   Country, coded                                C  an..3
+020   7224  NUMBER OF PACKAGES                             C  n..8
+

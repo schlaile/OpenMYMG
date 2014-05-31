@@ -1,0 +1,18 @@
+FII    FINANCIAL INSTITUTION INFORMATION
+010   3035  PARTY QUALIFIER                                M  an..3
+020   C078  ACCOUNT IDENTIFICATION                         C  
+      3194   Account holder number                         C  an..35
+      3192   Account holder name                           C  an..35
+      3192   Account holder name                           C  an..35
+      6345   Currency, coded                               C  an..3
+030   C088  INSTITUTION IDENTIFICATION                     C  
+      3433   Institution name identification               C  an..11
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      3434   Institution branch number                     C  an..17
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      3432   Institution name                              C  an..70
+      3436   Institution branch place                      C  an..70
+040   3207  COUNTRY, CODED                                 C  an..3
+

@@ -1,0 +1,15 @@
+INP    PARTIES TO INSTRUCTION
+010   C849  PARTIES TO INSTRUCTION                         C  
+      3301   Party enacting instruction identification     M  an..17
+      3285   Recipient of the instruction identification   C  an..17
+020   C522  INSTRUCTION                                    C  
+      4403   Instruction qualifier                         M  an..3
+      4401   Instruction, coded                            C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      4400   Instruction                                   C  an..35
+030   C850  STATUS OF INSTRUCTION                          C  
+      4405   Status, coded                                 M  an..3
+      3036   Party name                                    C  an..35
+040   1229  ACTION REQUEST/NOTIFICATION, CODED             C  an..3
+

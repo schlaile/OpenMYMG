@@ -1,0 +1,8 @@
+DIM    DIMENSIONS
+010   6145  DIMENSION QUALIFIER                            M  an..3
+020   C211  DIMENSIONS                                     M  
+      6411   Measure unit qualifier                        M  an..3
+      6168   Length dimension                              C  n..15
+      6140   Width dimension                               C  n..15
+      6008   Height dimension                              C  n..15
+

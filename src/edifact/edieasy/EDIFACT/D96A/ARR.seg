@@ -1,0 +1,7 @@
+ARR    ARRAY INFORMATION
+010   C778  POSITION IDENTIFICATION                        C  
+      7164   Hierarchical id. number                       C  an..12
+      1050   Sequence number                               C  an..6
+020   C770  ARRAY CELL DETAILS                             C  
+      9424   Array cell information                        C  an..35
+

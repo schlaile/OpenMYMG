@@ -1,0 +1,14 @@
+PAT    PAYMENT TERMS BASIS
+010   4279  PAYMENT TERMS TYPE QUALIFIER                   M  an..3
+020   C110  PAYMENT TERMS                                  C  
+      4277   Terms of payment identification               M  an..17
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      4276   Terms of payment                              C  an..35
+      4276   Terms of payment                              C  an..35
+030   C112  TERMS/TIME INFORMATION                         C  
+      2475   Payment time reference, coded                 M  an..3
+      2009   Time relation, coded                          C  an..3
+      2151   Type of period, coded                         C  an..3
+      2152   Number of periods                             C  n..3
+

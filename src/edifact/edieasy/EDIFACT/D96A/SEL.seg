@@ -1,0 +1,9 @@
+SEL    SEAL NUMBER
+010   9308  SEAL NUMBER                                    M  an..10
+020   C215  SEAL ISSUER                                    C  
+      9303   Sealing party, coded                          C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      9302   Sealing party                                 C  an..35
+030   4517  SEAL CONDITION, CODED                          C  an..3
+

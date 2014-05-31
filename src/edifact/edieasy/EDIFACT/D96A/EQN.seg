@@ -1,0 +1,5 @@
+EQN    NUMBER OF UNITS
+010   C523  NUMBER OF UNIT DETAILS                         M  
+      6350   Number of units                               C  n..15
+      6353   Number of units qualifier                     C  an..3
+

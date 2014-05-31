@@ -1,0 +1,4 @@
+UCS    SEGMENT ERROR INDICATION
+010   0096  SEGMENT POSITION IN MESSAGE                 M 1   n..6     
+020   0085  SYNTAX ERROR, CODED                         C 1   an..3    
+

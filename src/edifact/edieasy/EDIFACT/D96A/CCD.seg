@@ -1,0 +1,5 @@
+CCD    CREDIT COVER DETAILS
+010   4505  CREDIT COVER REQUEST, CODED                    C  an..3
+020   4507  CREDIT COVER RESPONSE, CODED                   C  an..3
+030   4509  CREDIT COVER REASON, CODED                     C  an..3
+

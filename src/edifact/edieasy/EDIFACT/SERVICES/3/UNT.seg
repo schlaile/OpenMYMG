@@ -1,0 +1,4 @@
+UNT    MESSAGE TRAILER
+010   0074  NUMBER OF SEGMENTS IN THE MESSAGE           M 1   n..6     
+020   0062  MESSAGE REFERENCE NUMBER                    M 1   an..14   
+

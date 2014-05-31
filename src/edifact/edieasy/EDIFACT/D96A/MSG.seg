@@ -1,0 +1,11 @@
+MSG    MESSAGE TYPE IDENTIFICATION
+010   C709  MESSAGE IDENTIFIER                             M  
+      1475   Message type identifier                       M  an..6
+      1056   Version                                       M  an..9
+      1058   Release                                       M  an..9
+      1476   Control agency                                M  an..2
+      1523   Association assigned identification           C  an..6
+      1060   Revision number                               C  an..6
+020   1507  CLASS DESIGNATOR, CODED                        C  an..3
+030   4513  MAINTENANCE OPERATION, CODED                   C  an..3
+

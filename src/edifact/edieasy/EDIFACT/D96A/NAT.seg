@@ -1,0 +1,8 @@
+NAT    NATIONALITY
+010   3493  NATIONALITY QUALIFIER                          M  an..3
+020   C042  NATIONALITY DETAILS                            C  
+      3293   Nationality, coded                            C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      3292   Nationality                                   C  a..35
+

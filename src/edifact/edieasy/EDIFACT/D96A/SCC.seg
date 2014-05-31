@@ -1,0 +1,8 @@
+SCC    SCHEDULING CONDITIONS
+010   4017  DELIVERY PLAN STATUS INDICATOR, CODED          M  an..3
+020   4493  DELIVERY REQUIREMENTS, CODED                   C  an..3
+030   C329  PATTERN DESCRIPTION                            C  
+      2013   Frequency, coded                              C  an..3
+      2015   Despatch pattern, coded                       C  an..3
+      2017   Despatch pattern timing, coded                C  an..3
+

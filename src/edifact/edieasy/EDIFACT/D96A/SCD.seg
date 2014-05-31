@@ -1,0 +1,21 @@
+SCD    STRUCTURE COMPONENT DEFINITION
+010   7497  COMPONENT FUNCTION QUALIFIER                   M  an..3
+020   C786  STRUCTURE COMPONENT IDENTIFICATION             C  
+      7512   Structure component identifier                M  an..35
+      7405   Identity number qualifier                     C  an..3
+030   C082  PARTY IDENTIFICATION DETAILS                   C  
+      3039   Party id. identification                      M  an..35
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+040   4405  STATUS, CODED                                  C  an..3
+050   1222  CONFIGURATION LEVEL                            C  n..2
+060   C778  POSITION IDENTIFICATION                        C  
+      7164   Hierarchical id. number                       C  an..12
+      1050   Sequence number                               C  an..6
+070   C240  PRODUCT CHARACTERISTIC                         C  
+      7037   Characteristic identification                 M  an..17
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      7036   Characteristic                                C  an..35
+      7036   Characteristic                                C  an..35
+

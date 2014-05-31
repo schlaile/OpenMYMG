@@ -1,0 +1,13 @@
+PDI    PERSON DEMOGRAPHIC INFORMATION
+010   3499  SEX, CODED                                     C  an..3
+020   C085  MARITAL STATUS DETAILS                         C  
+      3479   Marital status, coded                         C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      3478   Marital status                                C  an..35
+030   C101  RELIGION DETAILS                               C  
+      3483   Religion, coded                               C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      3482   Religion                                      C  an..35
+

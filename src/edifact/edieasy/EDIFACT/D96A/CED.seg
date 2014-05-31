@@ -1,0 +1,11 @@
+CED    COMPUTER ENVIRONMENT DETAILS
+010   1501  COMPUTER ENVIRONMENT DETAILS QUALIFIER         M  an..3
+020   C079  COMPUTER ENVIRONMENT IDENTIFICATION            M  
+      1511   Computer environment, coded                   C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      1510   Computer environment                          C  an..35
+      1056   Version                                       C  an..9
+      1058   Release                                       C  an..9
+      7402   Identity number                               C  an..35
+

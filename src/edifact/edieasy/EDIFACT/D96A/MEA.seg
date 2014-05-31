@@ -1,0 +1,15 @@
+MEA    MEASUREMENTS
+010   6311  MEASUREMENT APPLICATION QUALIFIER              M  an..3
+020   C502  MEASUREMENT DETAILS                            C  
+      6313   Measurement dimension, coded                  C  an..3
+      6321   Measurement significance, coded               C  an..3
+      6155   Measurement attribute, coded                  C  an..3
+      6154   Measurement attribute                         C  an..70
+030   C174  VALUE/RANGE                                    C  
+      6411   Measure unit qualifier                        M  an..3
+      6314   Measurement value                             C  n..18
+      6162   Range minimum                                 C  n..18
+      6152   Range maximum                                 C  n..18
+      6432   Significant digits                            C  n..2
+040   7383  SURFACE/LAYER INDICATOR, CODED                 C  an..3
+

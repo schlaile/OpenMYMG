@@ -1,0 +1,11 @@
+HAN    HANDLING INSTRUCTIONS
+010   C524  HANDLING INSTRUCTIONS                          C  
+      4079   Handling instructions, coded                  C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      4078   Handling instructions                         C  an..70
+020   C218  HAZARDOUS MATERIAL                             C  
+      7419   Hazardous material class code, identification C  an..4
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+

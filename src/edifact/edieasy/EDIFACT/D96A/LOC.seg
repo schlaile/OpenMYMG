@@ -1,0 +1,19 @@
+LOC    PLACE/LOCATION IDENTIFICATION
+010   3227  PLACE/LOCATION QUALIFIER                       M  an..3
+020   C517  LOCATION IDENTIFICATION                        C  
+      3225   Place/location identification                 C  an..25
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      3224   Place/location                                C  an..70
+030   C519  RELATED LOCATION ONE IDENTIFICATION            C  
+      3223   Related place/location one identification     C  an..25
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      3222   Related place/location one                    C  an..70
+040   C553  RELATED LOCATION TWO IDENTIFICATION            C  
+      3233   Related place/location two identification     C  an..25
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      3232   Related place/location two                    C  an..70
+050   5479  RELATION, CODED                                C  an..3
+

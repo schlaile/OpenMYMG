@@ -1,0 +1,8 @@
+CDI    PHYSICAL OR LOGICAL STATE
+010   7001  PHYSICAL OR LOGICAL STATE QUALIFIER            M  an..3
+020   C564  PHYSICAL OR LOGICAL STATE INFORMATION          M  
+      7007   Physical or logical state, coded              C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      7006   Physical or logical state                     C  an..35
+

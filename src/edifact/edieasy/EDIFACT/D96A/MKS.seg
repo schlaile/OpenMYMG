@@ -1,0 +1,8 @@
+MKS    MARKET/SALES CHANNEL INFORMATION
+010   7293  SECTOR/SUBJECT IDENTIFICATION QUALIFIER        M  an..3
+020   C332  SALES CHANNEL IDENTIFICATION                   M  
+      3496   Sales channel identifier                      M  an..17
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+030   1229  ACTION REQUEST/NOTIFICATION, CODED             C  an..3
+

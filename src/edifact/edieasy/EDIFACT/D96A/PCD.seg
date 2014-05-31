@@ -1,0 +1,8 @@
+PCD    PERCENTAGE DETAILS
+010   C501  PERCENTAGE DETAILS                             M  
+      5245   Percentage qualifier                          M  an..3
+      5482   Percentage                                    C  n..10
+      5249   Percentage basis, coded                       C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+

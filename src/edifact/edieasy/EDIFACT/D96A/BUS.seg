@@ -1,0 +1,15 @@
+BUS    BUSINESS FUNCTION
+010   C521  BUSINESS FUNCTION                              C  
+      4027   Business function qualifier                   M  an..3
+      4025   Business function, coded                      M  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      4022   Business description                          C  an..70
+020   3279  GEOGRAPHIC ENVIRONMENT, CODED                  C  an..3
+030   4487  TYPE OF FINANCIAL TRANSACTION, CODED           C  an..3
+040   C551  BANK OPERATION                                 C  
+      4383   Bank operation, coded                         M  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+050   4463  INTRA-COMPANY PAYMENT, CODED                   C  an..3
+

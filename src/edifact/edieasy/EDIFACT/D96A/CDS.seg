@@ -1,0 +1,8 @@
+CDS    CODE SET IDENTIFICATION
+010   C702  CODE SET IDENTIFICATION                        M  
+      9150   Simple data element tag                       C  an..4
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+020   1507  CLASS DESIGNATOR, CODED                        C  an..3
+030   4513  MAINTENANCE OPERATION, CODED                   C  an..3
+

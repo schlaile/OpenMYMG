@@ -1,0 +1,19 @@
+UNG    FUNCTIONAL GROUP HEADER
+010   0038  FUNCTIONAL GROUP IDENTIFICATION             M 1   an..6    
+020   S006  APPLICATION SENDER'S IDENTIFICATION         M 1            
+      0040   Sender identification                      M     an..35
+      0007   Partner identification code qualifier      C     an..4
+030   S007  APPLICATION RECIPIENT'S IDENTIFICATION      M 1            
+      0044   Recipient's identification                 M     an..35
+      0007   Partner identification code qualifier      C     an..4
+040   S004  DATE/TIME OF PREPARATION                    M 1            
+      0017   Date of preparation                        M     n6
+      0019   Time of preparation                        M     n4
+050   0048  FUNCTIONAL GROUP REFERENCE NUMBER           M 1   an..14   
+060   0051  CONTROLLING AGENCY                          M 1   an..2    
+070   S008  MESSAGE VERSION                             M 1            
+      0052   Message version number                     M     an..3
+      0054   Message release number                     M     an..3
+      0057   Association assigned code                  C     an..6
+080   0058  APPLICATION PASSWORD                        C 1   an..14   
+

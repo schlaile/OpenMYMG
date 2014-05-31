@@ -1,0 +1,20 @@
+<BR>
+<B><U>HISTOTRY : </U></B><BR>
+Split in class/EDIFACT.class.php<BR>
+<BR>
+<B><U>Old Version : 0.16 </U></B><BR>
+1.Correctif Bug<BR>
+2.Lecture Data dans un segment non current (Déjà lu)
+<BR>
+<B><U>Old Version : 0.15 </U></B><BR>
+1.Correctif Bug<BR>
+2.Optimisation algorithme de chargement message
+<BR>
+<B><U>Old Version : 0.14 </U></B><BR>
+1.UNIQUEMENT Réception message EDIFACT<BR>
+2.Validation Interchange multi-Message<BR>
+3.Gestion UNA<BR>
+4.Read Message Indexé (déjà validé) ou Fichier EDIFACT Direct (validation à la lecture)<BR>
+<BR> 
+/********************* FIN **********************/<BR><BR>
+

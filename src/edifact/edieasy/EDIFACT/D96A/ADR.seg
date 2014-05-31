@@ -1,0 +1,26 @@
+ADR    ADDRESS
+010   C817  ADDRESS USAGE                                  C  
+      3299   Address purpose, coded                        C  an..3
+      3131   Address type, coded                           C  an..3
+      3475   Address status, coded                         C  an..3
+020   C090  ADDRESS DETAILS                                C  
+      3477   Address format, coded                         M  an..3
+      3286   Address component                             M  an..70
+      3286   Address component                             C  an..70
+      3286   Address component                             C  an..70
+      3286   Address component                             C  an..70
+      3286   Address component                             C  an..70
+030   3164  CITY NAME                                      C  an..35
+040   3251  POSTCODE IDENTIFICATION                        C  an..9
+050   3207  COUNTRY, CODED                                 C  an..3
+060   C819  COUNTRY SUB-ENTITY DETAILS                     C  
+      3229   Country sub-entity identification             C  an..9
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      3228   Country sub-entity                            C  an..35
+070   C517  LOCATION IDENTIFICATION                        C  
+      3225   Place/location identification                 C  an..25
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      3224   Place/location                                C  an..70
+

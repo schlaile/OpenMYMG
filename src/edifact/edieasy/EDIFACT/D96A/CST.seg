@@ -1,0 +1,23 @@
+CST    CUSTOMS STATUS OF GOODS
+010   1496  GOODS ITEM NUMBER                              C  n..5
+020   C246  CUSTOMS IDENTITY CODES                         C  
+      7361   Customs code identification                   M  an..18
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+030   C246  CUSTOMS IDENTITY CODES                         C  
+      7361   Customs code identification                   M  an..18
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+040   C246  CUSTOMS IDENTITY CODES                         C  
+      7361   Customs code identification                   M  an..18
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+050   C246  CUSTOMS IDENTITY CODES                         C  
+      7361   Customs code identification                   M  an..18
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+060   C246  CUSTOMS IDENTITY CODES                         C  
+      7361   Customs code identification                   M  an..18
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+

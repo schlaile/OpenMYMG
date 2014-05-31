@@ -1,0 +1,6 @@
+ERP    ERROR POINT DETAILS
+010   C701  ERROR POINT DETAILS                            M  
+      1049   Message section, coded                        M  an..3
+      1052   Message item number                           C  an..35
+      1054   Message sub-item number                       C  n..6
+

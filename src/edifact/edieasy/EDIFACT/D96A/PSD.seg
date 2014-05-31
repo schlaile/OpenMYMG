@@ -1,0 +1,19 @@
+PSD    PHYSICAL SAMPLE DESCRIPTION
+010   4407  SAMPLE PROCESS STATUS, CODED                   C  an..3
+020   7039  SAMPLE SELECTION METHOD, CODED                 C  an..3
+030   C526  FREQUENCY DETAILS                              C  
+      6071   Frequency qualifier                           M  an..3
+      6072   Frequency value                               C  n..9
+      6411   Measure unit qualifier                        C  an..3
+040   7045  SAMPLE DESCRIPTION, CODED                      C  an..3
+050   7047  SAMPLE DIRECTION, CODED                        C  an..3
+060   C514  SAMPLE LOCATION DETAILS                        C  
+      3237   Sample location, coded                        C  an..3
+      3236   Sample location                               C  an..35
+070   C514  SAMPLE LOCATION DETAILS                        C  
+      3237   Sample location, coded                        C  an..3
+      3236   Sample location                               C  an..35
+080   C514  SAMPLE LOCATION DETAILS                        C  
+      3237   Sample location, coded                        C  an..3
+      3236   Sample location                               C  an..35
+

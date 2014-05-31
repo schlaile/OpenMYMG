@@ -1,0 +1,12 @@
+SFI    SAFETY INFORMATION
+010   7164  HIERARCHICAL ID. NUMBER                        M  an..12
+020   C814  SAFETY SECTION                                 C  
+      4046   Safety section                                M  n..2
+      4044   Safety section name                           C  an..70
+030   C815  ADDITIONAL SAFETY INFORMATION                  C  
+      4039   Additional safety information, coded          M  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      4038   Additional safety information                 C  an..35
+040   4513  MAINTENANCE OPERATION, CODED                   C  an..3
+

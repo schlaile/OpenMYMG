@@ -1,0 +1,19 @@
+PCI    PACKAGE IDENTIFICATION
+010   4233  MARKING INSTRUCTIONS, CODED                    C  an..3
+020   C210  MARKS & LABELS                                 C  
+      7102   Shipping marks                                M  an..35
+      7102   Shipping marks                                C  an..35
+      7102   Shipping marks                                C  an..35
+      7102   Shipping marks                                C  an..35
+      7102   Shipping marks                                C  an..35
+      7102   Shipping marks                                C  an..35
+      7102   Shipping marks                                C  an..35
+      7102   Shipping marks                                C  an..35
+      7102   Shipping marks                                C  an..35
+      7102   Shipping marks                                C  an..35
+030   8275  CONTAINER/PACKAGE STATUS, CODED                C  an..3
+040   C827  TYPE OF MARKING                                C  
+      7511   Type of marking, coded                        M  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+

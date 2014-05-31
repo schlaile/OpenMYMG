@@ -1,0 +1,11 @@
+FNT    FOOTNOTE
+010   C784  FOOTNOTE IDENTIFICATION                        M  
+      9432   Footnote identifier                           M  an..35
+      7405   Identity number qualifier                     C  an..3
+020   C082  PARTY IDENTIFICATION DETAILS                   C  
+      3039   Party id. identification                      M  an..35
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+030   4405  STATUS, CODED                                  C  an..3
+040   4513  MAINTENANCE OPERATION, CODED                   C  an..3
+

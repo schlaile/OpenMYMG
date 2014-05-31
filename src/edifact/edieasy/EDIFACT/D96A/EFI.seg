@@ -1,0 +1,11 @@
+EFI    EXTERNAL FILE LINK IDENTIFICATION
+010   C077  FILE IDENTIFICATION                            M  
+      1508   File name                                     C  an..35
+      7008   Item description                              C  an..35
+020   C099  FILE DETAILS                                   C  
+      1516   File format                                   M  an..17
+      1056   Version                                       C  an..9
+      1503   Data format, coded                            C  an..3
+      1502   Data format                                   C  an..35
+030   1050  SEQUENCE NUMBER                                C  an..6
+

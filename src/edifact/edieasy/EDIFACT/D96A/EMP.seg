@@ -1,0 +1,22 @@
+EMP    EMPLOYMENT DETAILS
+010   9003  EMPLOYMENT QUALIFIER                           M  an..3
+020   C948  EMPLOYMENT CATEGORY                            C  
+      9005   Employment category, coded                    C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      9004   Employment category                           C  an..35
+030   C951  OCCUPATION                                     C  
+      9009   Occupation, coded                             C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      9008   Occupation                                    C  an..35
+      9008   Occupation                                    C  an..35
+040   C950  QUALIFICATION CLASSIFICATION                   C  
+      9007   Qualification classification, coded           C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      9006   Qualification classification                  C  an..35
+      9006   Qualification classification                  C  an..35
+050   3494  JOB TITLE                                      C  an..35
+060   9035  QUALIFICATION AREA, CODED                      C  an..3
+

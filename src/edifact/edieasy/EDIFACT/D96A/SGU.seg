@@ -1,0 +1,9 @@
+SGU    SEGMENT USAGE DETAILS
+010   9166  SEGMENT TAG                                    M  an..3
+020   7299  REQUIREMENT DESIGNATOR, CODED                  C  an..3
+030   6176  MAXIMUM NUMBER OF OCCURRENCES                  C  n..7
+040   7168  LEVEL NUMBER                                   C  n1
+050   1050  SEQUENCE NUMBER                                C  an..6
+060   1049  MESSAGE SECTION, CODED                         C  an..3
+070   4513  MAINTENANCE OPERATION, CODED                   C  an..3
+

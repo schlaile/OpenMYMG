@@ -1,0 +1,13 @@
+UNH    MESSAGE HEADER
+010   0062  MESSAGE REFERENCE NUMBER                    M 1   an..14   
+020   S009  MESSAGE IDENTIFIER                          M 1            
+      0065   Message type                               M     an..6
+      0052   Message version number                     M     an..3
+      0054   Message release number                     M     an..3
+      0051   Controlling agency                         M     an..2
+      0057   Association assigned code                  C     an..6
+030   0068  COMMON ACCESS REFERENCE                     C 1   an..35   
+040   S010  STATUS OF THE  TRANSFER                     C 1            
+      0070   Sequence of transfers                      M     n..2
+      0073   First and last transfer                    C     a1
+

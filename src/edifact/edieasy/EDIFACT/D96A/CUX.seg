@@ -1,0 +1,14 @@
+CUX    CURRENCIES
+010   C504  CURRENCY DETAILS                               C  
+      6347   Currency details qualifier                    M  an..3
+      6345   Currency, coded                               C  an..3
+      6343   Currency qualifier                            C  an..3
+      6348   Currency rate base                            C  n..4
+020   C504  CURRENCY DETAILS                               C  
+      6347   Currency details qualifier                    M  an..3
+      6345   Currency, coded                               C  an..3
+      6343   Currency qualifier                            C  an..3
+      6348   Currency rate base                            C  n..4
+030   5402  RATE OF EXCHANGE                               C  n..12
+040   6341  CURRENCY MARKET EXCHANGE, CODED                C  an..3
+

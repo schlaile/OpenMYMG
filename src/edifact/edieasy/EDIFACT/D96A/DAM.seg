@@ -1,0 +1,23 @@
+DAM    DAMAGE
+010   7493  DAMAGE DETAILS QUALIFIER                       M  an..3
+020   C821  TYPE OF DAMAGE                                 C  
+      7501   Type of damage, coded                         C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      7500   Type of damage                                C  an..35
+030   C822  DAMAGE AREA                                    C  
+      7503   Damage area identification                    C  an..4
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      7502   Damage area                                   C  an..35
+040   C825  DAMAGE SEVERITY                                C  
+      7509   Damage severity, coded                        C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      7508   Damage severity                               C  an..35
+050   C826  ACTION                                         C  
+      1229   Action request/notification, coded            C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      1228   Action request/notification                   C  an..35
+

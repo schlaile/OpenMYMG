@@ -1,0 +1,6 @@
+ELU    DATA ELEMENT USAGE DETAILS
+010   9162  DATA ELEMENT TAG                               M  an..4
+020   7299  REQUIREMENT DESIGNATOR, CODED                  C  an..3
+030   1050  SEQUENCE NUMBER                                C  an..6
+040   4513  MAINTENANCE OPERATION, CODED                   C  an..3
+

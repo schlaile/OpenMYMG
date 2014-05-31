@@ -1,0 +1,8 @@
+SAL    REMUNERATION TYPE IDENTIFICATION
+010   C049  REMUNERATION TYPE IDENTIFICATION               C  
+      5315   Remuneration type, coded                      C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      5314   Remuneration type                             C  an..35
+      5314   Remuneration type                             C  an..35
+

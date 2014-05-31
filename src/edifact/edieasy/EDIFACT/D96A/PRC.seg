@@ -1,0 +1,8 @@
+PRC    PROCESS IDENTIFICATION
+010   C242  PROCESS TYPE AND DESCRIPTION                   M  
+      7187   Process type identification                   M  an..17
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      7186   Process type                                  C  an..35
+      7186   Process type                                  C  an..35
+

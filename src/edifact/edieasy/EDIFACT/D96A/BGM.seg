@@ -1,0 +1,10 @@
+BGM    BEGINNING OF MESSAGE
+010   C002  DOCUMENT/MESSAGE NAME                          C  
+      1001   Document/message name, coded                  C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      1000   Document/message name                         C  an..35
+020   1004  DOCUMENT/MESSAGE NUMBER                        C  an..35
+030   1225  MESSAGE FUNCTION, CODED                        C  an..3
+040   4343  RESPONSE TYPE, CODED                           C  an..3
+

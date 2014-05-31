@@ -1,0 +1,7 @@
+GRU    SEGMENT GROUP USAGE DETAILS
+010   9164  GROUP IDENTIFICATION                           M  an..4
+020   7299  REQUIREMENT DESIGNATOR, CODED                  C  an..3
+030   6176  MAXIMUM NUMBER OF OCCURRENCES                  C  n..7
+040   4513  MAINTENANCE OPERATION, CODED                   C  an..3
+050   1050  SEQUENCE NUMBER                                C  an..6
+

@@ -1,0 +1,11 @@
+BII    STRUCTURE IDENTIFICATION
+010   7429  INDEXING STRUCTURE QUALIFIER                   M  an..3
+020   C045  BILL LEVEL IDENTIFICATION                      M  
+      7436   Level one id.                                 C  an..17
+      7438   Level two id.                                 C  an..17
+      7440   Level three id.                               C  an..17
+      7442   Level four id.                                C  an..17
+      7444   Level five id.                                C  an..17
+      7446   Level six id.                                 C  an..17
+030   7140  ITEM NUMBER                                    C  an..35
+

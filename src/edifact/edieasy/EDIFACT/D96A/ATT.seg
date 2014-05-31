@@ -1,0 +1,12 @@
+ATT    ATTRIBUTE
+010   9017  ATTRIBUTE FUNCTION QUALIFIER                   M  an..3
+020   C955  ATTRIBUTE TYPE                                 C  
+      9021   Attribute type, coded                         M  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+030   C956  ATTRIBUTE DETAILS                              C  
+      9019   Attribute, coded                              C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      9018   Attribute                                     C  an..35
+

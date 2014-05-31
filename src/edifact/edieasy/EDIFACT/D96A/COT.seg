@@ -1,0 +1,32 @@
+COT    CONTRIBUTION DETAILS
+010   5047  CONTRIBUTION QUALIFIER                         M  an..3
+020   C953  CONTRIBUTION TYPE                              C  
+      5049   Contribution type, coded                      M  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      5048   Contribution type                             C  an..35
+030   C522  INSTRUCTION                                    C  
+      4403   Instruction qualifier                         M  an..3
+      4401   Instruction, coded                            C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      4400   Instruction                                   C  an..35
+040   C203  RATE/TARIFF CLASS                              C  
+      5243   Rate/tariff class identification              M  an..9
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      5242   Rate/tariff class                             C  an..35
+      5275   Supplementary rate/tariff basis               C  an..6
+             identification
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      5275   Supplementary rate/tariff basis               C  an..6
+             identification
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+050   C960  REASON FOR CHANGE                              C  
+      4295   Change reason, coded                          C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      4294   Change reason                                 C  an..35
+

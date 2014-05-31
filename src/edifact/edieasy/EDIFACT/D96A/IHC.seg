@@ -1,0 +1,21 @@
+IHC    PERSON CHARACTERISTIC
+010   3289  PERSON CHARACTERISTIC QUALIFIER                M  an..3
+020   C818  PERSON INHERITED CHARACTERISTIC DETAILS        C  
+      3311   Person inherited characteristic               C  an..8
+             identification
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      3310   Person inherited characteristic               C  an..70
+
+IMD    ITEM DESCRIPTION
+010   7077  ITEM DESCRIPTION TYPE, CODED                   C  an..3
+020   7081  ITEM CHARACTERISTIC, CODED                     C  an..3
+030   C273  ITEM DESCRIPTION                               C  
+      7009   Item description identification               C  an..17
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      7008   Item description                              C  an..35
+      7008   Item description                              C  an..35
+      3453   Language, coded                               C  an..3
+040   7383  SURFACE/LAYER INDICATOR, CODED                 C  an..3
+

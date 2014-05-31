@@ -1,0 +1,23 @@
+TAX    DUTY/TAX/FEE DETAILS
+010   5283  DUTY/TAX/FEE FUNCTION QUALIFIER                M  an..3
+020   C241  DUTY/TAX/FEE TYPE                              C  
+      5153   Duty/tax/fee type, coded                      C  an..3
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      5152   Duty/tax/fee type                             C  an..35
+030   C533  DUTY/TAX/FEE ACCOUNT DETAIL                    C  
+      5289   Duty/tax/fee account identification           M  an..6
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+040   5286  DUTY/TAX/FEE ASSESSMENT BASIS                  C  an..15
+050   C243  DUTY/TAX/FEE DETAIL                            C  
+      5279   Duty/tax/fee rate identification              C  an..7
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      5278   Duty/tax/fee rate                             C  an..17
+      5273   Duty/tax/fee rate basis identification        C  an..12
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+060   5305  DUTY/TAX/FEE CATEGORY, CODED                   C  an..3
+070   3446  PARTY TAX IDENTIFICATION NUMBER                C  an..20
+

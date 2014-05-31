@@ -1,0 +1,16 @@
+TEM    TEST METHOD
+010   C244  TEST METHOD                                    C  
+      4415   Test method identification                    C  an..17
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      4416   Test description                              C  an..70
+020   4419  TEST ROUTE OF ADMINISTERING, CODED             C  an..3
+030   3077  TEST MEDIA, CODED                              C  an..3
+040   6311  MEASUREMENT APPLICATION QUALIFIER              C  an..3
+050   7188  TEST REVISION NUMBER                           C  an..30
+060   C515  TEST REASON                                    C  
+      4425   Test reason identification                    C  an..17
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      4424   Test reason                                   C  an..35
+

@@ -1,0 +1,23 @@
+GOR    GOVERNMENTAL REQUIREMENTS
+010   8323  TRANSPORT MOVEMENT, CODED                      C  an..3
+020   C232  GOVERNMENT ACTION                              C  
+      9415   Government agency, coded                      C  an..3
+      9411   Government involvement, coded                 C  an..3
+      9417   Government action, coded                      C  an..3
+      9353   Government procedure, coded                   C  an..3
+030   C232  GOVERNMENT ACTION                              C  
+      9415   Government agency, coded                      C  an..3
+      9411   Government involvement, coded                 C  an..3
+      9417   Government action, coded                      C  an..3
+      9353   Government procedure, coded                   C  an..3
+040   C232  GOVERNMENT ACTION                              C  
+      9415   Government agency, coded                      C  an..3
+      9411   Government involvement, coded                 C  an..3
+      9417   Government action, coded                      C  an..3
+      9353   Government procedure, coded                   C  an..3
+050   C232  GOVERNMENT ACTION                              C  
+      9415   Government agency, coded                      C  an..3
+      9411   Government involvement, coded                 C  an..3
+      9417   Government action, coded                      C  an..3
+      9353   Government procedure, coded                   C  an..3
+

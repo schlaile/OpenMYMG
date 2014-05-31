@@ -1,0 +1,20 @@
+VLI    VALUE LIST IDENTIFICATION
+010   C780  VALUE LIST IDENTIFICATION                      M  
+      1518   Value list identifier                         M  an..35
+      7405   Identity number qualifier                     C  an..3
+020   C082  PARTY IDENTIFICATION DETAILS                   C  
+      3039   Party id. identification                      M  an..35
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+030   4405  STATUS, CODED                                  C  an..3
+040   1514  VALUE LIST NAME                                C  an..70
+050   1507  CLASS DESIGNATOR, CODED                        C  an..3
+060   1505  VALUE LIST TYPE, CODED                         C  an..3
+070   C240  PRODUCT CHARACTERISTIC                         C  
+      7037   Characteristic identification                 M  an..17
+      1131   Code list qualifier                           C  an..3
+      3055   Code list responsible agency, coded           C  an..3
+      7036   Characteristic                                C  an..35
+      7036   Characteristic                                C  an..35
+080   4513  MAINTENANCE OPERATION, CODED                   C  an..3
+

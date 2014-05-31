@@ -1,0 +1,6 @@
+TMP    TEMPERATURE
+010   6245  TEMPERATURE QUALIFIER                          M  an..3
+020   C239  TEMPERATURE SETTING                            C  
+      6246   Temperature setting                           C  n3
+      6411   Measure unit qualifier                        C  an..3
+

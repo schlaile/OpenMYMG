@@ -1,0 +1,4 @@
+UNE    FUNCTIONAL GROUP TRAILER
+010   0060  NUMBER OF MESSAGES                          M 1   n..6     
+020   0048  FUNCTIONAL GROUP REFERENCE NUMBER           M 1   an..14   
+
