@@ -1,30 +1,33 @@
 <?php
 
+include_once($LIB . "/controller/func.php");
+include_once($LIB . "/controller/sql.php");
+
 controller::set_default_max_version(1);
 
 // ----------------------------------------------------------------------
 
-feature::enable("article/status");
+feature::enable("status/article");
 
-sql_controller::register(
-	"status/article/(.*)",
+sql_controller::create(
+	regex("status/article/(.*)"),
 	"SELECT ... WHERE artikelnr = :capture ");
 
-sql_controller::register(
+sql_controller::create(
 	"status/article/index.csv",
 	"SELECT ... ");
 
 // ----------------------------------------------------------------------
 
+feature::enable("invoices/index");
 feature::enable("invoices/pdf");
 
-sql_controller::register(
+sql_controller::create(
 	"invoices/index.csv",
-	
-	);
+	"SELECT ... ");
 
-func_controller::register(
-	"invoices/(.*).pdf",
+func_controller::create(
+	regex("invoices/(.*)\.pdf"),
 	function ($version, $customer, $path, $params) {
 		$invoiceno = $params["capture"];
 
@@ -41,7 +44,7 @@ feature::enable("invoices/csv");
 
 feature::enable("new/order/csv");
 
-func_controller::register(
+func_controller::create(
 	"new/order",
 	function ($version, $customer, $path, $params) {
 
