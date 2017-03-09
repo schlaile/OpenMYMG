@@ -2,10 +2,14 @@
 
 class feature {
 	static function enable($feature) {
-		feature::$features[$feature] = true;
+		feature::$features[$feature] = "1";
 	}
 	static function disable($feature) {
-		feature::$features[$feature] = false;
+		feature::$features[$feature] = "0";
+	}
+
+	static function set($key, $val) {
+		feature::$features[$key] = $val;
 	}
 
 	static function get_features() {
@@ -18,12 +22,12 @@ class feature {
 func_controller::create(
 	"info.csv",
 	function ($version, $customer, $path, $params) {
-		send_row(array("key", "value"));
+		send_row(array("Key", "Value"));
 
 		$f = feature::get_features();
 
 		foreach ($f as $k => $v) {
-			send_row(array($k, $v ? "1" : "0"));
+			send_row(array($k, $v));
 		}
 	})->set_public(true);
 

@@ -5,6 +5,28 @@ include_once($LIB . "/controller/sql.php");
 
 controller::set_default_max_version(1);
 
+feature::enable("version/1");
+feature::set("company", "Demo Company, 12345 Mars Avenue, Mars City");
+feature::set("contact", "openmymg@demo-company.com");
+
+// ----------------------------------------------------------------------
+
+feature::enable("contact/index");
+
+sql_controller::create(
+	"contact/index.csv",
+	"SELECT id, name, role, phone, email ".
+	"FROM contacts, customer " .
+	"WHERE contacts.area = customer.area ".
+	"  AND customer.id   = :customer" );
+
+sql_controller::create(
+	"contact/index.csv",
+	"SELECT id, name, role, phone, email ".
+	"FROM contacts ".
+	"WHERE public = 'Y'")->set_public(true);
+
+
 // ----------------------------------------------------------------------
 
 feature::enable("status/article");
