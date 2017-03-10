@@ -22,13 +22,16 @@ class feature {
 func_controller::create(
 	"info.csv",
 	function ($version, $customer, $path, $params) {
-		send_row(array("Key", "Value"));
+		send_begin(array("Key", "Value"));
 
 		$f = feature::get_features();
 
 		foreach ($f as $k => $v) {
 			send_row(array($k, $v));
 		}
+
+		send_end();
+
 	})->set_public(true);
 
 ?>

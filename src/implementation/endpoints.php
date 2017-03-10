@@ -4,6 +4,7 @@ include_once($LIB . "/controller/func.php");
 include_once($LIB . "/controller/sql.php");
 
 controller::set_default_max_version(1);
+sql_controller::connect("mysql:host=localhost;dbname=test", "dbuser", "dbpass");
 
 feature::enable("version/1");
 feature::set("company", "Demo Company, 12345 Mars Avenue, Mars City");
