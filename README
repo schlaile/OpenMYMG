@@ -11,8 +11,8 @@ keine einheitliche API, um diese von einem Lieferanten abzuholen.
 Um die Implementierung auf allen Seiten möglichst einfach zu halten,
 wäre ein Übergang zu einer REST-basierten API wünschenswert.
 
-Details, warum das sinnvoll ist, findet sich unter docs/OpenMYMG.pdf als
-Foliensatz.
+Details, warum das sinnvoll ist, findet sich unter 
+[als Foliensatz](docs/OpenMYMG.pdf).
 
 Beim jeweiligen Lieferanten ist nur eine einfache Implementierungsdatei
 an Hand der Beispiel-Implementierung auszufüllen, danach kann in 
