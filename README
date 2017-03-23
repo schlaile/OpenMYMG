@@ -11,9 +11,6 @@ keine einheitliche API, um diese von einem Lieferanten abzuholen.
 Um die Implementierung auf allen Seiten möglichst einfach zu halten,
 wäre ein Übergang zu einer REST-basierten API wünschenswert.
 
-Es spricht jedoch nichts dagegen, aus der internen API-Spezifikation auch
-automatisch einen SOAP-API Endpunkt generieren zu lassen.
-
 Details, warum das sinnvoll ist, findet sich unter docs/OpenMYMG.pdf als
 Foliensatz.
 
@@ -25,6 +22,7 @@ einheitlicher Weise
 * ein Artikel-Status abgefragt werden
 * Bestellungen aufgegeben werden
 * Lieferavise abgerufen werden
+* Originaldokumente im PDF-Format abgerufen werden
 
 Innerhalb der API kann kommuniziert werden, wieviele Elemente der Norm
 auch implementiert werden.
@@ -37,6 +35,15 @@ in PHP5 ohne weitere Abhängigkeiten gehalten.
 
 Sollten für den Connector zum Haussystem dann Datenbank-Schnittstellen
 benötigt werden, müssen diese natürlich entsprechend installiert werden.
+
+Was allerdings dank PHP-PDO kein Problem sein sollte.
+
+Es spricht nichts dagegen, aus der internen API-Spezifikation auch
+automatisch einen SOAP-API Endpunkt generieren zu lassen.
+
+Gegen einen EDIFACT-Postkorb spricht ebenfalls grundsätzlich nichts, wobei
+dieser vermutlich nur dann Sinn macht, falls eine entsprechende Infrastruktur
+bereits vorhanden ist.
 
 Die Schnittstelle steht, auch auf Grund der verwendeten EDIFACT und
 SOAP-Bibliotheken unter der GNU General Public License 3.0 und kann
