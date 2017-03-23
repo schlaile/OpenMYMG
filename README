@@ -3,18 +3,28 @@ OpenMYMG
 Generische Schnittstelle, basiert auf dem offenen Teil der
 MYMG-Schnittstelle (Meyer Yamaha Meinl GEWA) Dateiaustauschspezifikation.
 
-Ergänzt um eine allgemeine Bestell-API, die parallel SOAP/XML-RPC/REST
-(jeweils mit demselben Interface) zur Verfügung stellt.
+Sinn der Übung:
 
-Beim jeweiligen Lieferanten ist nur ein entsprechendes Skelett-File
-auszufüllen, danach kann in einheitlicher Weise
+Aktuell ist zwar die Preisliste in ihrem Aufbau definiert, jedoch gibt es
+keine einheitliche API, um diese von einem Lieferanten abzuholen.
+
+Um die Implementierung auf allen Seiten möglichst einfach zu halten,
+wäre ein Übergang zu einer REST-basierten API wünschenswert.
+
+Es spricht jedoch nichts dagegen, aus der internen API-Spezifikation auch
+automatisch einen SOAP-API Endpunkt generieren zu lassen.
+
+Details, warum das sinnvoll ist, findet sich unter docs/OpenMYMG.pdf als
+Foliensatz.
+
+Beim jeweiligen Lieferanten ist nur eine einfache Implementierungsdatei
+an Hand der Beispiel-Implementierung auszufüllen, danach kann in 
+einheitlicher Weise
 
 * der aktuelle Datenbestand abgefragt werden
 * ein Artikel-Status abgefragt werden
 * Bestellungen aufgegeben werden
 * Lieferavise abgerufen werden
-
-Über die Schnittstelle können auch EDIFACT-Dateien eingereicht werden.
 
 Innerhalb der API kann kommuniziert werden, wieviele Elemente der Norm
 auch implementiert werden.
